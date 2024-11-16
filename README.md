@@ -24,6 +24,8 @@ Demonstrate practice on JDBC connections.
                : Displaying selected items, recipt.
 - **Order Review**: Review past orders and their details.
 
+https://github.com/TevyTrial/M_Fast_Food/issues/1#issue-2664598326
+
 ## Getting Started
 
 ### Prerequisites
