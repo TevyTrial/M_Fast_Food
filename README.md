@@ -1,6 +1,7 @@
 # M Fast Food Management System
 
 Welcome to the **M Fast Food Management System**. This system is designed to manage various aspects of a fast food restaurant, including operations for staff, managers, and order processing.
+Demonstrate practice on JDBC connections.
 
 ## Acknowledgments
 - This is a group project and not all are my work. Special thanks to the team for their support and contributions, also with the aid of ChatGPT
