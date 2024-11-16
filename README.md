@@ -6,6 +6,7 @@ Demonstrate practice on JDBC connections.
 ## Acknowledgments
 - This is a group project and not all are my work. Special thanks to the team for their support and contributions, also with the aid of ChatGPT
 - I have attached a demo video in `Issues`, I hope it will be easier to review :)
+- ![Demo](https://github.com/TevyTrial/M_Fast_Food/issues/1#issue-2664598326)
 
 ## Features
 - All input will change the database and display the new values in real-time.
@@ -23,8 +24,6 @@ Demonstrate practice on JDBC connections.
 - **New order**: Create new orders, customize order details, and handle payments(Staff can have discount).
                : Displaying selected items, recipt.
 - **Order Review**: Review past orders and their details.
-
-![Demo](https://github.com/TevyTrial/M_Fast_Food/issues/1#issue-2664598326)
 
 ## Getting Started
 
